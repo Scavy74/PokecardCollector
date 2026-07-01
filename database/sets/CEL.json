@@ -1,0 +1,272 @@
+{
+  "set": {
+    "id": "CEL",
+    "version": 1,
+    "code": "CEL",
+    "display_name": "Célébrations",
+    "official_name": "Célébrations",
+    "language": "FR",
+    "block_id": "SWSH",
+    "collection_type": "SPECIAL",
+    "release_date": "2021-10-08",
+    "regular_cards": 25,
+    "secret_cards": 25,
+    "total_cards": 50,
+    "symbol_path": "assets/sets/CEL/symbol.png",
+    "logo_path": "assets/sets/CEL/logo.png",
+    "sort_order": 10
+  },
+
+  "cards": [
+    {
+      "card_id": "CEL-001-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "001/025",
+      "display_name": "Ho-Oh",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-001-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-002-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "002/025",
+      "display_name": "Reshiram",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-002-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-003-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "003/025",
+      "display_name": "Kyogre",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-003-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-004-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "004/025",
+      "display_name": "Palkia",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-004-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-005-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "005/025",
+      "display_name": "Pikachu",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-005-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-006-V",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "006/025",
+      "display_name": "Pikachu Volant V",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "V",
+      "image_path": "CEL/CEL-006-V.jpg"
+    },
+    {
+      "card_id": "CEL-007-VMAX",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "007/025",
+      "display_name": "Pikachu Volant VMAX",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "VMAX",
+      "image_path": "CEL/CEL-007-VMAX.jpg"
+    },
+    {
+      "card_id": "CEL-008-V",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "008/025",
+      "display_name": "Pikachu Surfeur V",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "V",
+      "image_path": "CEL/CEL-008-V.jpg"
+    },
+    {
+      "card_id": "CEL-009-VMAX",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "009/025",
+      "display_name": "Pikachu Surfeur VMAX",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "VMAX",
+      "image_path": "CEL/CEL-009-VMAX.jpg"
+    },
+    {
+      "card_id": "CEL-010-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "010/025",
+      "display_name": "Zekrom",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-010-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-011-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "011/025",
+      "display_name": "Mew",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-011-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-012-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "012/025",
+      "display_name": "Xerneas",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-012-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-013-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "013/025",
+      "display_name": "Cosmog",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-013-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-014-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "014/025",
+      "display_name": "Cosmovum",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-014-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-015-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "015/025",
+      "display_name": "Lunala",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-015-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-016-V",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "016/025",
+      "display_name": "Zacian V",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "V",
+      "image_path": "CEL/CEL-016-V.jpg"
+    },
+    {
+      "card_id": "CEL-017-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "017/025",
+      "display_name": "Groudon",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-017-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-018-V",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "018/025",
+      "display_name": "Zamazenta V",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "V",
+      "image_path": "CEL/CEL-018-V.jpg"
+    },
+    {
+      "card_id": "CEL-019-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "019/025",
+      "display_name": "Yveltal",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-019-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-020-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "020/025",
+      "display_name": "Dialga",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-020-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-021-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "021/025",
+      "display_name": "Solgaleo",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-021-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-022-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "022/025",
+      "display_name": "Lugia",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-022-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-023-HOLO",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "023/025",
+      "display_name": "Recherches Professorales - Professeur Chen",
+      "rarity_code": "RARE",
+      "variant_code": "HOLO",
+      "image_path": "CEL/CEL-023-HOLO.jpg"
+    },
+    {
+      "card_id": "CEL-024-FULL_ART",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "024/025",
+      "display_name": "Recherches Professorales - Professeur Chen",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "FULL_ART",
+      "image_path": "CEL/CEL-024-FULL_ART.jpg"
+    },
+    {
+      "card_id": "CEL-025-GOLD",
+      "set_id": "CEL",
+      "language": "FR",
+      "number": "025/025",
+      "display_name": "Mew",
+      "rarity_code": "ULTRA_RARE",
+      "variant_code": "GOLD",
+      "image_path": "CEL/CEL-025-GOLD.jpg"
+    }
+  ]
+}
