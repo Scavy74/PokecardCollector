@@ -2,9 +2,11 @@
   "sets": [
     {
       "id": "CEL",
+      "name": "Célébrations",
       "version": 1,
       "filename": "CEL.json",
-      "sha256": ""
+      "sha256": "",
+      "release_notes": "Première publication du set."
     }
   ]
 }
