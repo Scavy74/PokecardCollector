@@ -1,12 +1,12 @@
 {
   "sets": [
     {
-      "id": "CEL",
-      "name": "Célébrations",
+      "id": "FST_test",
+      "name": "Poing de Fusion",
       "version": 1,
-      "filename": "CEL.json",
+      "filename": "FST_test.json",
       "sha256": "",
-      "release_notes": "Première publication du set."
+      "release_notes": "Test des 15 premières cartes du set FST."
     }
   ]
 }
