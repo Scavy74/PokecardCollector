@@ -1,10 +1,10 @@
 {
   "sets": [
     {
-      "id": "FST_test",
+      "id": "FST",
       "name": "Poing de Fusion",
       "version": 1,
-      "filename": "FST_test.json",
+      "filename": "FST.json",
       "sha256": "",
       "release_notes": "Test des 15 premières cartes du set FST."
     }
